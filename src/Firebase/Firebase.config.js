@@ -21,3 +21,4 @@ const logOut = ()=>{
   return signOut(auth)
 }
 export { db, googleProvider, firebase, logOut }
+
